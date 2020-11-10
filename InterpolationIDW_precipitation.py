@@ -47,10 +47,11 @@ lines=dates.readlines()
 
 '''
 Here I present to you two option of how 
-can be create the grid space for the interpolation
+can be created the grid space for the interpolation
 '''
 
-'''ST grid
+'''
+1ST grid
 #delta is the spatial resolution
 delta=0.1
 X = np.arange(-55,-48,delta)
